@@ -1,3 +1,4 @@
+Deployement Link
 This dataset provides sample scientific literature records across Biology, Chemistry, and Physics for testing Retrieval-Augmented Generation (RAG) systems. Each record includes a research title, concise abstract, detailed main text with LaTeX-formatted mathematical equations, and structured citations with author, year, and DOI metadata.
 
 The dataset is designed to support:
