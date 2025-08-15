@@ -10,3 +10,5 @@ Evaluation of domain-specific LLM responses with accurate scientific references
 Demonstration of end-to-end RAG pipelines in academic and research contexts
 
 Its balanced coverage of multiple domains, inclusion of technical terminology, and equation-rich content make it ideal for prototyping, benchmarking, and educational purposes in scientific NLP and AI research.
+
+ Link :- https://rag-system-that-combines-traditional-vector-search-fm4ir7abck8.streamlit.app/
